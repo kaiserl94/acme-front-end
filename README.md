@@ -13,8 +13,8 @@ There are three mockups provided in the `DESIGNS` folder.
 * `AcmeFrontEnd_Mobile.psd`
 
 * `AcmeFrontEnd_Mobile_Navigation.psd`
-  
-  
+
+If you don't have access to Photoshop, there are PNG files provided in the `DESIGNS` folder as well.
 
 To get started, clone this repo and create a branch off of `main`. All of your changes should be on that branch. Once you are done, create a Pull Request (PR). This will signify to us that you are complete.
 
