@@ -1,0 +1,17 @@
+.env
+node_modules
+
+*.deb
+*.tar.gz
+
+app/styles
+
+
+/.cache
+/build
+/public/build
+
+
+*.db-journal
+
+server-build
